@@ -1,0 +1,35 @@
+{
+  "zpid": 33404778,
+  "homeStatus": "FOR_SALE",
+  "address": {
+    "streetAddress": "1724 Cliffview Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "zipcode": "44112"
+  },
+  "bedrooms": 3,
+  "bathrooms": 2,
+  "purchasePrice": 78.000,
+  "assignmentPrice": 85.800,
+  "description": "1724 Cliffview is perfect for the savvy investor or owner occupant! Currently tenant occupied and will need some basic cosmetic updating, but can be quickly finished and turned into the fitting home for a family or a high return investment! Roof (2012) and Hwt (2023). Schedule your showing today.",
+  "responsivePhotos": [
+    {
+      "mixedSources": {
+        "jpeg": [
+          {
+            "url": "https://photos.zillowstatic.com/fp/648ae4b6564f588b166d6b5001c788e2-cc_ft_960.jpg",
+            "width": 960
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/13606d27248bc82ca64da4697860da28-cc_ft_960.jpg",
+            "width": 960
+          },
+          {
+            "url": "https://photos.zillowstatic.com/fp/18c6abc3f942ccf02525f398ce2de681-cc_ft_960.jpg",
+            "width": 960
+          }
+        ]
+      }
+    }
+  ]
+}

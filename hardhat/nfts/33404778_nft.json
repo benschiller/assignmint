@@ -1,0 +1,47 @@
+{
+  "name": "1724 Cliffview Rd, Cleveland, OH - Assignment: $85,800",
+  "description": "1724 Cliffview is perfect for the savvy investor or owner occupant! Currently tenant occupied and will need some basic cosmetic updating, but can be quickly finished and turned into the fitting home for a family or a high return investment! Roof (2012) and Hwt (2023). Schedule your showing today.",
+  "image": "https://gateway.lighthouse.storage/ipfs/bafkreigkclrsmqsdkghdwkb4r7sf572ooke6ihaf3v7dzehokgqeeldgme",
+  "attributes": [
+    {
+      "trait_type": "ZPID",
+      "value": 33404778
+    },
+    {
+      "trait_type": "Home Status",
+      "value": "FOR_SALE"
+    },
+    {
+      "trait_type": "Street Address",
+      "value": "1724 Cliffview Rd"
+    },
+    {
+      "trait_type": "City",
+      "value": "Cleveland"
+    },
+    {
+      "trait_type": "State",
+      "value": "OH"
+    },
+    {
+      "trait_type": "Zipcode",
+      "value": "44112"
+    },
+    {
+      "trait_type": "Bedrooms",
+      "value": 3
+    },
+    {
+      "trait_type": "Bathrooms",
+      "value": 2
+    },
+    {
+      "trait_type": "Purchase Price",
+      "value": 78.000
+    },
+    {
+      "trait_type": "Assignment Price",
+      "value": 85.800
+    }
+  ]
+}
