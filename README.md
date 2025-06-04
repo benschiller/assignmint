@@ -4,6 +4,8 @@ This project showcases a Minimal Viable Product (MVP) for a decentralized wholes
 
 [Watch the Full Walkthrough](https://www.youtube.com/watch?v=bRWp-E8s7x8)
 
+[![Watch the Full Walkthrough](https://i.imgur.com/GLzefHG.png)](https://www.youtube.com/watch?v=bRWp-E8s7x8)
+
 ## ✨ Core Functionality
 
 *   **Buyer Transfers Funds with GOAT:** The buyer securely transfers funds from their vault to their wallet using GOAT, which utilizes AI-powered Natural Language Processing (NLP) for the transfer.
